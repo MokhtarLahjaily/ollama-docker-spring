@@ -30,7 +30,7 @@ This project leverages **Spring AI** and **Ollama** to provide an easy interface
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ollama-docker-spring.git
+git clone https://github.com/MokhtarLahjaily/ollama-docker-spring.git
 cd ollama-docker-spring
 ```
 
